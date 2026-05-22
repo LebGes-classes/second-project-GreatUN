@@ -1,0 +1,5 @@
+product_id;name;purchase_price;selling_price
+PROD1;Ноутбук;50000;75000
+PROD2;Смартфон;20000;35000
+PROD3;Наушники;3000;6000
+PROD4;Клавиатура;1500;3000

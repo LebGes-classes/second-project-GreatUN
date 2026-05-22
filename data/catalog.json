@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": "PROD1",
+    "name": "Ноутбук",
+    "purchase_price": "50000",
+    "selling_price": "75000"
+  },
+  {
+    "product_id": "PROD2",
+    "name": "Смартфон",
+    "purchase_price": "20000",
+    "selling_price": "35000"
+  },
+  {
+    "product_id": "PROD3",
+    "name": "Наушники",
+    "purchase_price": "3000",
+    "selling_price": "6000"
+  },
+  {
+    "product_id": "PROD4",
+    "name": "Клавиатура",
+    "purchase_price": "1500",
+    "selling_price": "3000"
+  }
+]

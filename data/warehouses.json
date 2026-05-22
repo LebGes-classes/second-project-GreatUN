@@ -1,0 +1,26 @@
+[
+  {
+    "warehouse_id": "1",
+    "name": "TEST",
+    "manager_id": null,
+    "cells": [
+      {
+        "cell_id": "C1",
+        "capacity": 10,
+        "products": {}
+      },
+      {
+        "cell_id": "C2",
+        "capacity": 50,
+        "products": {
+          "PROD1": 20
+        }
+      },
+      {
+        "cell_id": "C3",
+        "capacity": 100,
+        "products": {}
+      }
+    ]
+  }
+]
